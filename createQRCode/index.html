@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QR Code</title>
+    <script type="text/javascript" src="./qrcode.min.js"></script>
+</head>
+<body>
+    <div id="qrcode"></div>
+    <script type="text/javascript">
+        var qrCodeValue = "COUCOU";
+        new QRCode(document.getElementById("qrcode"), qrCodeValue);
+    </script>
+</body>
+</html>

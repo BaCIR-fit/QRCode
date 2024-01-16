@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/procir/static/js/main.807cbd8c.js",
+    "static/js/684.99e8bf1e.chunk.js": "/procir/static/js/684.99e8bf1e.chunk.js",
+    "index.html": "/procir/index.html",
+    "main.807cbd8c.js.map": "/procir/static/js/main.807cbd8c.js.map",
+    "684.99e8bf1e.chunk.js.map": "/procir/static/js/684.99e8bf1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.807cbd8c.js"
+  ]
+}
